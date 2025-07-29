@@ -8,6 +8,7 @@
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Traffic light"
+    "Caption": "Traffic light",
+    "DependsOn": []
   }
 }
