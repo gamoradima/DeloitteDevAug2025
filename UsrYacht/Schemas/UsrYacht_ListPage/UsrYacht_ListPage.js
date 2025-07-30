@@ -17,7 +17,6 @@ define("UsrYacht_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 				"operation": "merge",
 				"name": "FolderTree",
 				"values": {
-					"sourceSchemaName": "FolderTree",
 					"rootSchemaName": "UsrYacht"
 				}
 			},
@@ -30,20 +29,43 @@ define("UsrYacht_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 							"id": "f252f581-0ccf-44ac-b7c9-c00df2ad9919",
 							"code": "PDS_UsrName",
 							"caption": "#ResourceString(PDS_UsrName)#",
-							"dataValueType": 1
+							"dataValueType": 1,
+							"width": 146
 						},
 						{
-							"id": "c8689d78-80ba-4e71-8cf2-fa478e3be5bc",
+							"id": "8c29b52a-0394-9205-1ee8-6f412d4036dc",
+							"code": "PDS_UsrPrice",
+							"caption": "#ResourceString(PDS_UsrPrice)#",
+							"dataValueType": 32,
+							"width": 179
+						},
+						{
+							"id": "de935aaa-d513-33ab-6cb2-4468354a1c97",
+							"code": "PDS_UsrDriveType",
+							"caption": "#ResourceString(PDS_UsrDriveType)#",
+							"dataValueType": 10,
+							"width": 121
+						},
+						{
+							"id": "19d1263f-b913-5458-66e1-143ea372a739",
+							"code": "PDS_UsrStatus",
+							"caption": "#ResourceString(PDS_UsrStatus)#",
+							"dataValueType": 10,
+							"width": 147
+						},
+						{
+							"id": "00796f14-502f-3cac-27ba-e671f6fecfb5",
+							"code": "PDS_UsrPassengerCount",
+							"caption": "#ResourceString(PDS_UsrPassengerCount)#",
+							"dataValueType": 4,
+							"width": 181
+						},
+						{
+							"id": "d89d8f17-eede-23d2-3b70-5f1da731c5ab",
 							"code": "PDS_CreatedOn",
 							"caption": "#ResourceString(PDS_CreatedOn)#",
 							"dataValueType": 7
-						},
-						{
-							"id": "fd4b3485-a46e-4219-b775-adef1210fe51",
-							"code": "PDS_CreatedBy",
-							"caption": "#ResourceString(PDS_CreatedBy)#",
-							"dataValueType": 10
-						},
+						}
 					]
 				}
 			},
@@ -79,14 +101,29 @@ define("UsrYacht_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 							"path": "PDS.UsrName"
 						}
 					},
+					"PDS_UsrPrice": {
+						"modelConfig": {
+							"path": "PDS.UsrPrice"
+						}
+					},
+					"PDS_UsrDriveType": {
+						"modelConfig": {
+							"path": "PDS.UsrDriveType"
+						}
+					},
+					"PDS_UsrStatus": {
+						"modelConfig": {
+							"path": "PDS.UsrStatus"
+						}
+					},
+					"PDS_UsrPassengerCount": {
+						"modelConfig": {
+							"path": "PDS.UsrPassengerCount"
+						}
+					},
 					"PDS_CreatedOn": {
 						"modelConfig": {
 							"path": "PDS.CreatedOn"
-						}
-					},
-					"PDS_CreatedBy": {
-						"modelConfig": {
-							"path": "PDS.CreatedBy"
 						}
 					}
 				}
@@ -101,7 +138,27 @@ define("UsrYacht_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 					"config"
 				],
 				"values": {
-					"entitySchemaName": "UsrYacht"
+					"entitySchemaName": "UsrYacht",
+					"attributes": {
+						"UsrName": {
+							"path": "UsrName"
+						},
+						"UsrPrice": {
+							"path": "UsrPrice"
+						},
+						"UsrDriveType": {
+							"path": "UsrDriveType"
+						},
+						"UsrStatus": {
+							"path": "UsrStatus"
+						},
+						"UsrPassengerCount": {
+							"path": "UsrPassengerCount"
+						},
+						"CreatedOn": {
+							"path": "CreatedOn"
+						}
+					}
 				}
 			}
 		]/**SCHEMA_MODEL_CONFIG_DIFF*/,
