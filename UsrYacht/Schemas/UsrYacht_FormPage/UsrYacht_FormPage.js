@@ -474,6 +474,21 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 					/* Call the next handler if it exists and return its result. */
 					return next?.handle(request);
 				}
+			},
+			{
+				request: "crt.HandleViewModelAttributeChangeRequest",
+				/* The custom implementation of the system query handler. */
+				handler: async (request, next) => {
+      				if (request.attributeName === 'PDS_UsrPrice_7egsyjs' || 		        // if price changed
+					   request.attributeName === 'PDS_UsrPassangerCount_452hkkl' ) { 		// or Passenger count changed
+						var price = await request.$context.PDS_UsrPrice_7egsyjs;
+						var passengers = await request.$context.PDS_UsrPassangerCount_452hkkl;
+						var ticket_price = price / passengers;
+						request.$context.PDS_UsrTicketPrice_hbu7wx1 = ticket_price;
+					}
+					/* Call the next handler if it exists and return its result. */
+					return next?.handle(request);
+				}
 			}
 		]/**SCHEMA_HANDLERS*/,
 		converters: /**SCHEMA_CONVERTERS*/{}/**SCHEMA_CONVERTERS*/,
