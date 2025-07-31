@@ -1,0 +1,98 @@
+﻿{
+  "Descriptor": {
+    "UId": "a88cb3f1-6313-3843-a69c-5a53306b4771",
+    "Name": "UsrYacht_Demo",
+    "ModifiedOnUtc": "\/Date(1753886238000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "18a48d06-a0d9-462e-bcf7-7312ed3b233a",
+      "Name": "UsrYacht"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "0ae44d63-1605-750a-89f7-184dad53d63b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCaptain",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "f41f6ff5-c5f0-1370-e481-5fbf0882b204",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrLength",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "8beeeaa3-fbeb-c7c4-2fa7-94ba6e0622e0",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrStatus",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "1f80d076-388f-c893-8129-4613b300354a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrRegNumber",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "18203735-b5fd-5684-8a8d-a56194826783",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrPrice",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "eeef6c57-c64a-e986-33b8-4c24a678af1a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrComment",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "715cae8c-9afd-bf7a-4841-51f9bfec2216",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCrewCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "aaf785bb-8d28-4dd9-ac4e-110db63ff5f2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e89372f-2556-5587-d37b-db97931564cf",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrDriveType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "37a42dc3-7f67-d1a7-6a44-8a1b2246d01e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrPassengerCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "0e3c07e3-7129-d6c8-d2f0-93739334918c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrManager",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

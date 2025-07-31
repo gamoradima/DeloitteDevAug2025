@@ -1,0 +1,116 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "94a0cdf5-fd3e-400f-acd6-7a15ec6a5537"
+        },
+        {
+          "SchemaColumnUId": "0ae44d63-1605-750a-89f7-184dad53d63b",
+          "Value": "d4ca8c9f-2ada-4a28-b4d8-59151333bf1d",
+          "DisplayValue": "Creatio Web Farm Orchestrator"
+        },
+        {
+          "SchemaColumnUId": "0e3c07e3-7129-d6c8-d2f0-93739334918c",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "18203735-b5fd-5684-8a8d-a56194826783",
+          "Value": 12000.00
+        },
+        {
+          "SchemaColumnUId": "1f80d076-388f-c893-8129-4613b300354a",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "37a42dc3-7f67-d1a7-6a44-8a1b2246d01e",
+          "Value": 65
+        },
+        {
+          "SchemaColumnUId": "715cae8c-9afd-bf7a-4841-51f9bfec2216",
+          "Value": 8
+        },
+        {
+          "SchemaColumnUId": "8beeeaa3-fbeb-c7c4-2fa7-94ba6e0622e0",
+          "Value": "49715cdd-ca8f-4c69-be62-f7f4d017e894",
+          "DisplayValue": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "9e89372f-2556-5587-d37b-db97931564cf",
+          "Value": "c7f38706-07e8-4873-aeaf-07194388baff",
+          "DisplayValue": "Power Yacht"
+        },
+        {
+          "SchemaColumnUId": "aaf785bb-8d28-4dd9-ac4e-110db63ff5f2",
+          "Value": "Queen Mary"
+        },
+        {
+          "SchemaColumnUId": "eeef6c57-c64a-e986-33b8-4c24a678af1a",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f41f6ff5-c5f0-1370-e481-5fbf0882b204",
+          "Value": 50
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9a1b476d-e871-451a-bd49-c05e5960ce37"
+        },
+        {
+          "SchemaColumnUId": "0ae44d63-1605-750a-89f7-184dad53d63b",
+          "Value": "d5e43975-425a-47a3-bc7b-78f617832e61",
+          "DisplayValue": "Creatio.ai"
+        },
+        {
+          "SchemaColumnUId": "0e3c07e3-7129-d6c8-d2f0-93739334918c",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "18203735-b5fd-5684-8a8d-a56194826783",
+          "Value": 800.00
+        },
+        {
+          "SchemaColumnUId": "1f80d076-388f-c893-8129-4613b300354a",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "37a42dc3-7f67-d1a7-6a44-8a1b2246d01e",
+          "Value": 18
+        },
+        {
+          "SchemaColumnUId": "715cae8c-9afd-bf7a-4841-51f9bfec2216",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "8beeeaa3-fbeb-c7c4-2fa7-94ba6e0622e0",
+          "Value": "49715cdd-ca8f-4c69-be62-f7f4d017e894",
+          "DisplayValue": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "9e89372f-2556-5587-d37b-db97931564cf",
+          "Value": "c7f38706-07e8-4873-aeaf-07194388baff",
+          "DisplayValue": "Power Yacht"
+        },
+        {
+          "SchemaColumnUId": "aaf785bb-8d28-4dd9-ac4e-110db63ff5f2",
+          "Value": "Roomster 3"
+        },
+        {
+          "SchemaColumnUId": "eeef6c57-c64a-e986-33b8-4c24a678af1a",
+          "Value": "test"
+        },
+        {
+          "SchemaColumnUId": "f41f6ff5-c5f0-1370-e481-5fbf0882b204",
+          "Value": 12
+        }
+      ]
+    }
+  ]
+}
