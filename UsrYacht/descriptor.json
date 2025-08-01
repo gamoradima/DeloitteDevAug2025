@@ -14,6 +14,12 @@
         "Type": 1
       },
       {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
         "UId": "faf84bb8-9503-685e-beb1-328db75daf59",
         "PackageVersion": "7.8.0",
         "Name": "CrtWebFarm",
