@@ -3,9 +3,10 @@
     "UId": "577cc1bc-fea4-431f-8988-efb2e5e5e47b",
     "Name": "UsrYacht",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1753778186000)\/",
+    "ModifiedOnUtc": "\/Date(1754059372000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrYacht.csproj",
+    "Description": "Some text here.",
     "DependsOn": [
       {
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
