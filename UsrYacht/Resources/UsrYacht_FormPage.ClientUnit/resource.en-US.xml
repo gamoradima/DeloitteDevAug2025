@@ -3,10 +3,26 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.addRecord_0v6b238_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_5p69o1d_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_m9saxew_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_mgsab24_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_qwfjxtj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CategoryMultiSelect_label.Value" Value="Multi-select" />
+			<Item Name="LocalizableStrings.ComboBox_z5ewu65_ariaLabel.Value" Value="Dropdown" />
+			<Item Name="LocalizableStrings.ComboBox_z5ewu65_label.Value" Value="Manager Account Type" />
+			<Item Name="LocalizableStrings.CrewCannotBeLess.Value" Value="Crew count cannot be less than 1" />
+			<Item Name="LocalizableStrings.EmailInput_vy73vfr_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.EmailInput_vy73vfr_label.Value" Value="Manager Email" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ia6gt2k_title.Value" Value="Yacht rental" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_bqc7lbv_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_nqg4l2l_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_36echuu_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_qf3dvbh_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hw9hc2y_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_azrgc3m_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.PassengerCannotBeLess.Value" Value="Passenger count cannot be less than 1" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 100 EUR" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
