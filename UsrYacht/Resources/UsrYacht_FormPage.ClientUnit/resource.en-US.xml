@@ -8,6 +8,8 @@
 			<Item Name="LocalizableStrings.addRecord_m9saxew_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_mgsab24_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_qwfjxtj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ButtonActions_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CalcAvgMenuItem_caption.Value" Value="Calculate average ticket price process" />
 			<Item Name="LocalizableStrings.CategoryMultiSelect_label.Value" Value="Multi-select" />
 			<Item Name="LocalizableStrings.ComboBox_z5ewu65_ariaLabel.Value" Value="Dropdown" />
 			<Item Name="LocalizableStrings.ComboBox_z5ewu65_label.Value" Value="Manager Account Type" />

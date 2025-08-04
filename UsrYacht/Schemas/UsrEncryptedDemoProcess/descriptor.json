@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b60d1c20-64fe-447b-a660-0128a76b7031",
+    "Name": "UsrEncryptedDemoProcess",
+    "ModifiedOnUtc": "\/Date(1754316246000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Encrypted string demo process",
+    "DependsOn": []
+  }
+}
