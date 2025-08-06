@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ade73aae-bc3f-475b-a46a-204ddac93269",
+    "Name": "UsrTestEncryptedStringUserTaskProcess",
+    "ModifiedOnUtc": "\/Date(1754381512000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrTestEncryptedStringUserTaskProcess",
+    "DependsOn": []
+  }
+}

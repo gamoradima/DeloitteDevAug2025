@@ -1,0 +1,39 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "e43c8b4f-ec47-4fc1-aab2-c2b500f1b3d0",
+      "A2": "UsrGetEncryptedSysSettingTextUserTask",
+      "A5": "e8294b99-b597-4c88-ba13-f561f4418d03",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "577cc1bc-fea4-431f-8988-efb2e5e5e47b",
+      "B8": "8.3.0.3031",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "17bd2f5e-2d2c-b68d-d8c5-397d52ed1eda",
+          "A2": "EncryptedSysSettingCode",
+          "A3": "e43c8b4f-ec47-4fc1-aab2-c2b500f1b3d0",
+          "A4": "e43c8b4f-ec47-4fc1-aab2-c2b500f1b3d0",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L6": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "6e5c3f7c-5358-c1e5-6b68-45b1e62b9656",
+          "A2": "ResultText",
+          "A3": "e43c8b4f-ec47-4fc1-aab2-c2b500f1b3d0",
+          "A4": "e43c8b4f-ec47-4fc1-aab2-c2b500f1b3d0",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L13": true
+        }
+      ],
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

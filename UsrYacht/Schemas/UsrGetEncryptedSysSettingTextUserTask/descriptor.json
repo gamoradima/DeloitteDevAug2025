@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e43c8b4f-ec47-4fc1-aab2-c2b500f1b3d0",
+    "Name": "UsrGetEncryptedSysSettingTextUserTask",
+    "ModifiedOnUtc": "\/Date(1754380500000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "GetEncryptedSysSettingTextUserTask",
+    "DependsOn": []
+  }
+}

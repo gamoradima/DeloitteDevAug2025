@@ -23,6 +23,7 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_qf3dvbh_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_hw9hc2y_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_azrgc3m_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MaxPriceServiceMenuItem_caption.Value" Value="Call max price service" />
 			<Item Name="LocalizableStrings.PassengerCannotBeLess.Value" Value="Passenger count cannot be less than 1" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 100 EUR" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
